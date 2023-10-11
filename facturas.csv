@@ -1,0 +1,11 @@
+ID_Factura,Costo_Total,Servicios,Metodo_Pago,Estado_Pago
+1,100.0,Servicio A,Efectivo,Pagado
+2,50.0,Servicio B,Transferencia bancaria,Pagado
+3,75.0,Servicio C,Tarjeta de crédito,Pendiente
+4,30.0,Servicio D,Efectivo,Pagado
+5,200.0,Servicio E,Transferencia bancaria,Pagado
+6,10.0,Servicio F,Tarjeta de crédito,Pagado
+7,45.5,Servicio G,Efectivo,Pendiente
+8,95.0,Servicio H,Transferencia bancaria,Pagado
+9,20.0,Servicio A,Tarjeta de débito,Pendiente
+10,180.0,Servicio B,Efectivo,Pagado
